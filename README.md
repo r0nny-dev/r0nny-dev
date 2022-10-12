@@ -7,7 +7,7 @@ class r0nny-dev {
     public static String AboutMe(){
         String presentation = "⚡Hi, my name's Ronald, but you can call me r0nny⚡";
         String occupation = "⚡I currently work with Delphi language⚡";
-        String knowledge = "⚡I'm learning about Java and C and. I also know HTML, CSS and JavaScript⚡";
+        String knowledge = "⚡I'm learning about Java and C. I also know HTML, CSS and JavaScript⚡";
         
         String phrase = presentation+"\n"+occupation+"\n"+knowledge; 
         return  phrase;
