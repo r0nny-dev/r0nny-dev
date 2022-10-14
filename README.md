@@ -1,8 +1,6 @@
 <p>
 class r0nny-dev {
-    public static void main(String[] args) {
-        System.out.println(AboutMe());
-    }
+    public static void main(String[] args) {System.out.println(AboutMe());}
     
     public static String AboutMe(){
         String presentation = "⚡Hi, my name's Ronald, but you can call me r0nny⚡";
@@ -11,7 +9,7 @@ class r0nny-dev {
         
         String phrase = presentation+"\n"+occupation+"\n"+knowledge; 
         return  phrase;
-  }
+    }
 }
 </p>
 
