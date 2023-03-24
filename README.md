@@ -1,16 +1,5 @@
 <p>
-class r0nny-dev {
-    public static void main(String[] args) {System.out.println(AboutMe());}
-    
-    public static String AboutMe(){
-        String presentation = "⚡Hi, my name's Ronald, but you can call me r0nny⚡";
-        String occupation = "⚡I currently work with Delphi language⚡";
-        String knowledge = "⚡I'm learning about Java and C. I also know HTML, CSS and JavaScript⚡";
-        
-        String phrase = presentation+"\n"+occupation+"\n"+knowledge; 
-        return  phrase;
-    }
-}
+⚡Sou um desenvolvedor de softwares júnior, atualmente trabalhando com o desenvolvimento de sistemas ERP em Delphi. Além disso, estou estudando e me aprimorando no desenvolvimento de aplicações em Flutter. Sou apaixonado por tecnologia e estou sempre buscando novos desafios e oportunidades para crescer profissionalmente.⚡ 
 </p>
 
 <div align="center">
