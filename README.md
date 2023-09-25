@@ -1,5 +1,5 @@
 <p>
-⚡ Desenvolvedor Full Stack, especializado em back-end com foco em .Net e Delphi. Minha dedicação à programação e solução de problemas me possibilita criar soluções inovadoras, especialmente focadas nas necessidades dos clientes. Minha experiência tambem se destaca no desenvolvimento front-end visando criação de soluções inovadoras voltadas para a usabilidade e na capacidade de desenvolver interfaces de usuário responsivas e interativas. ⚡
+⚡ Desenvolvedor Full Stack, especializado em back-end .Net / Java e Delphi. Minha dedicação à programação e solução de problemas me possibilita criar soluções inovadoras, especialmente focadas nas necessidades dos clientes. Minha experiência tambem se destaca no desenvolvimento front-end visando criação de soluções inovadoras voltadas para a usabilidade e na capacidade de desenvolver interfaces de usuário responsivas e interativas. ⚡
 </p>
 
 <div align="center">
